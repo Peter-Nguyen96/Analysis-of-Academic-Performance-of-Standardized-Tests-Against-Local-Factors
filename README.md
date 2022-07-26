@@ -31,3 +31,11 @@ Omitted Grade 9 Data Grade Level Aggregated Analysis
 
 Fig 8: NaN Entry in Grade Level Average Aggregated Data
 
+ * Scores by School Spending: The agregated dataframe containing average scores and passing rates were identical across both analysis despite omitting 9th grade data from Thomas High School.  Thomas High School was originally binned in the $631-645 per student spending bracket.  The removal of 9th grade data should not change the budget per student, since although those scores were not counted, they students still exist, and absorb part of the budget.  Therefore this data should not change.
+ 
+ * Scores by School Size: The aggregated dataframe containing the average scores and passing rates grouped by school size also remained identical to the first analysis.  The total population of Thomas High School was 1635, of which 9th graders made up 461 students.  The population of the school minus the 9th graders was 1174, which still placed Thomas High School in the Medium bin defined as 1000-1999 students. The average scores may have been slightly smaller given enough precision but do not significantly impact the data.
+
+* Scores by School Type: The aggregated dataframe containing the average scores and passing rates by school type also did not change, since at no point did Thomas High School change types with the removal of the 9th grade scores. The average score and passing rate may be slightly lower given enough precision but does not significantly impact the data.
+
+
+
