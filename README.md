@@ -1,7 +1,7 @@
 An Analysis Academic Performance of Standardized Tests Against Local Factors
 
 Overview:
-An analysis was conducted on the standardized test scores of students across 15 schools.  The analysis factored in school population, funding, and the types of schools. The goal of this analysis was to identify trends in student funding and student standardized test scores in order to make funding decisions at the school and district level. This analysis will agregate data from a complete dataframe containing the students names, test scores, and information regarding the school they attended which include sizez, type, and level of funding.
+An analysis was conducted on the standardized test scores of students across 15 schools in a district.  The analysis factored in school population, funding, and the types of schools. The goal of this analysis was to identify trends in student funding and student standardized test scores in order to make funding decisions at the school and district level. This analysis will agregate data from a complete dataframe containing the students names, test scores, and information regarding the school they attended which include sizez, type, and level of funding.
 
 Data Analysis Results:
 The dataframes generated in this report differ from the data reported in the module.  Test scores of the 9th grade from Thomas High School were omitted for this analysis.
@@ -18,3 +18,9 @@ The School Summary dataframe remained largely unaffected, and only affected the 
 Fig 3: Initial Analysis Summary for Thomas High School
 Fig 4: 9th Grade Omitted Summary for Thomas High School
 Fig 5: Population Normalized Summary With 9th Grade Omitted for Thomas High School
+
+Ranking Against Ohter Schools
+In the initial analysis, Thomas High School ranked among the top 5 schools in the district and was second in overall passing rate.  After removing the 9th grade scores, and normalizing the grades for the adjusted population size, Thomas High School still ranked among the top 5 schools and remained in second place by overall passing rate.  The actual scores and passing rates were slightly lower in the 9th grade omitted analysis which could suggest that the average 9th grade scores were higher than the agraggate average scores of the 10th to 12th grade.
+
+Fig 6: Initial Summary Top 5 schools
+Fig 7: 9th Grade Omitted Top 5 schools
