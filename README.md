@@ -24,3 +24,10 @@ In the initial analysis, Thomas High School ranked among the top 5 schools in th
 
 Fig 6: Initial Summary Top 5 schools
 Fig 7: 9th Grade Omitted Top 5 schools
+
+Omitted Grade 9 Data Grade Level Aggregated Analysis
+
+  * Group by grade: The aggregated dataframe containing math and reading scores grouped by grade remained the same with the exception of the 9th grade average scores for Thomas High School being reported as NaN in the table of the second analysis.
+
+Fig 8: NaN Entry in Grade Level Average Aggregated Data
+
